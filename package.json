@@ -1,4 +1,4 @@
-
+{
 {
   "name": "ludo-server",
   "version": "1.0.0",
@@ -40,5 +40,5 @@
   "dependencies": {
     "ws": "^8.17.0"
   }
->>>>>>> 4baf2811d1ebaa4eead20530deaa56a73a2a651a
+ 4baf2811d1ebaa4eead20530deaa56a73a2a651a
 }
