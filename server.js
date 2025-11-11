@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+{
 const WebSocket = require('ws');
 
 // --- Configuration & Server Setup ---
@@ -608,5 +608,5 @@ wss.on('connection', ws => {
   });
 });
 
->>>>>>> 4baf2811d1ebaa4eead20530deaa56a73a2a651a
+} 4baf2811d1ebaa4eead20530deaa56a73a2a651a
 console.log(`WebSocket server started on ws://localhost:${PORT}`);
